@@ -2,8 +2,7 @@
     include_once("../app/templates/header.php");
 ?>
 
-<h1>Title</h1>
-<i class="fas fa-eye"></i>
+<h1>Criando novo contato</h1>
 
 <?php 
     include_once("../app/templates/footer.php");
