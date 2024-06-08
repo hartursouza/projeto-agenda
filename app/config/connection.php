@@ -1,7 +1,7 @@
 <?php 
 
     $host = 'localhost';
-    $dbname = 'cursophp';
+    $dbname = 'agenda';
     $user = 'root';
     $pass = '';
 
